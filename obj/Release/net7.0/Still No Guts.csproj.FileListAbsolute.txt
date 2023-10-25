@@ -1,0 +1,15 @@
+C:\Users\DCirjeu\source\Repos\Still No Guts\bin\Release\net7.0\Still No Guts.exe
+C:\Users\DCirjeu\source\Repos\Still No Guts\bin\Release\net7.0\Still No Guts.deps.json
+C:\Users\DCirjeu\source\Repos\Still No Guts\bin\Release\net7.0\Still No Guts.runtimeconfig.json
+C:\Users\DCirjeu\source\Repos\Still No Guts\bin\Release\net7.0\Still No Guts.dll
+C:\Users\DCirjeu\source\Repos\Still No Guts\bin\Release\net7.0\Still No Guts.pdb
+C:\Users\DCirjeu\source\Repos\Still No Guts\obj\Release\net7.0\Still No Guts.csproj.AssemblyReference.cache
+C:\Users\DCirjeu\source\Repos\Still No Guts\obj\Release\net7.0\Still No Guts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCirjeu\source\Repos\Still No Guts\obj\Release\net7.0\Still No Guts.AssemblyInfoInputs.cache
+C:\Users\DCirjeu\source\Repos\Still No Guts\obj\Release\net7.0\Still No Guts.AssemblyInfo.cs
+C:\Users\DCirjeu\source\Repos\Still No Guts\obj\Release\net7.0\Still No Guts.csproj.CoreCompileInputs.cache
+C:\Users\DCirjeu\source\Repos\Still No Guts\obj\Release\net7.0\Still No Guts.dll
+C:\Users\DCirjeu\source\Repos\Still No Guts\obj\Release\net7.0\refint\Still No Guts.dll
+C:\Users\DCirjeu\source\Repos\Still No Guts\obj\Release\net7.0\Still No Guts.pdb
+C:\Users\DCirjeu\source\Repos\Still No Guts\obj\Release\net7.0\Still No Guts.genruntimeconfig.cache
+C:\Users\DCirjeu\source\Repos\Still No Guts\obj\Release\net7.0\ref\Still No Guts.dll
