@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DCirjeu\\source\\Repos\\Still No Guts\\Still No Guts.csproj": {}
+    "C:\\Users\\danie\\Documents\\GitHub\\Still No Guts\\Still No Guts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DCirjeu\\source\\Repos\\Still No Guts\\Still No Guts.csproj": {
+    "C:\\Users\\danie\\Documents\\GitHub\\Still No Guts\\Still No Guts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DCirjeu\\source\\Repos\\Still No Guts\\Still No Guts.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Documents\\GitHub\\Still No Guts\\Still No Guts.csproj",
         "projectName": "Still No Guts",
-        "projectPath": "C:\\Users\\DCirjeu\\source\\Repos\\Still No Guts\\Still No Guts.csproj",
-        "packagesPath": "C:\\Users\\DCirjeu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DCirjeu\\source\\Repos\\Still No Guts\\obj\\",
+        "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\Still No Guts\\Still No Guts.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danie\\Documents\\GitHub\\Still No Guts\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DCirjeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
