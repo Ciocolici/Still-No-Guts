@@ -1,5 +1,6 @@
-# Still-No-Guts
-A "Choose Your Own Adventure" game about someone who apparently never got guts. 
+# Still No Guts
+A "Choose Your Own Adventure" game about someone who apparently never got guts.
+
 *To launch the game, start "Still No Guts.exe" located in "(...)\Still No Guts\bin\Release\net7.0"*
 
 This is the enhanced, remastered, or however you wanna call it, "No Guts" project I made for my final examination project, which was used to evaluate my programming skills, by my trainers.
