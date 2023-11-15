@@ -7,4 +7,5 @@ This is the enhanced, remastered, or however you wanna call it, "No Guts" projec
 You can find it here: https://github.com/Ciocolici/No-Guts-CSharp-Console-App
 
 I wasn't fully happy with my original "No Guts", so I fully remade it in "Still No Guts". It is fully translated into english, has more choices, ASCII pictures, looks better (colorful and better organized), and is a better "experience" overall. :D
+
 It has been made in Console App, by someone who is aspiring to become a real programmer someday. And it is his (mine) first big (bigger) project.
